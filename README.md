@@ -1,0 +1,3 @@
+This is a sample demo page of Amazon online shopping app.
+
+This is done only using HTML and CSS ; JAVASCRIPT is not used here...
